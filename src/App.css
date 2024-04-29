@@ -1,0 +1,11 @@
+html {
+    background-color: #000;
+}
+body {
+    font-family: 'Fira Sans', sans-serif;
+   }
+   
+   html, body {
+    overflow-x: hidden;
+  }
+ 
