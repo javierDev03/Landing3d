@@ -1,8 +1,13 @@
 # Landing Page en React con Componente de Cubo 3D
 
+![card](public/img/card.png)
+![mack](public/img/mack.png)
+![celular](public/img/celular.png)
+
+
+
 Este repositorio contiene una Landing Page desarrollada en React utilizando Vite como bundler y Tailwind CSS para los estilos. Además, se incluye un componente de cubo 3D implementado con la librería Spline.
 
-![card](public/img/card.png)
 ## Características
 
 - **React**: Utilizado como el framework principal para la construcción de la aplicación.
