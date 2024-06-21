@@ -35,7 +35,7 @@ export default function Home() {
       <section>
         <div className="relative flex justify-center">
           <img
-            src="./public/whirl.svg"
+            src="./whirl.svg"
             alt=""
             className="rotate-90 object-cover h-[1000px] w-[1000px]"
           />
